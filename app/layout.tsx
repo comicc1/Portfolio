@@ -13,21 +13,8 @@ export const metadata: Metadata = {
   description: 'Portfolio of Mico Patrick M. Pulido - 2nd Year Student at Ateneo de Davao University',
   generator: 'v0.app',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/mp-logo.png',
+    apple: '/mp-logo.png',
   },
 }
 
