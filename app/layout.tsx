@@ -9,8 +9,8 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Pulido Portfolio',
+  description: 'Portfolio of Mico Patrick M. Pulido - 2nd Year Student at Ateneo de Davao University',
   generator: 'v0.app',
   icons: {
     icon: [
